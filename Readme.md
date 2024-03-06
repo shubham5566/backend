@@ -1,7 +1,7 @@
 ############    backened
 
 
-thi is practice setions
+this is practice setions
 
 
 
